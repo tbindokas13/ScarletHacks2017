@@ -31,7 +31,7 @@ public class Zipcode {
 	 * This function takes the zipcode entered by the user and returns a string of the data in JSON format.
 	 * The data received form the database is in XML format, the function also converts XML to JSON.
 	 * 
-	 * @return String 
+	 * @return String JSON file retrieved form API Call.
 	 */
 	public String urlToJSON() {
 		try {
