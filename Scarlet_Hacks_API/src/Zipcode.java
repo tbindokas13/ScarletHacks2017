@@ -81,7 +81,11 @@ public class Zipcode {
 			JSON = "404 ERROR";
 		}
 	}
-
+	
+	/**
+	 * Code to get Senator #1 from state.
+	 * @return Array with all information relating to Senator #1 from Zip Code.
+	 */
 	public String[] getSentateNum1() {
 		ArrayList<String> output = new ArrayList<String>();
 		for (int i = 0; i < JSONarr.length; i++) {
@@ -98,6 +102,10 @@ public class Zipcode {
 		return stockArr;
 	}
 
+	/**
+	 * Code to gte Senator #2 from state.
+	 * @return Array with all information relating to Senator #2 from Zip Code
+	 */
 	public String[] getSentateNum2() {
 		ArrayList<String> output = new ArrayList<String>();
 		for (int i = 0; i < JSONarr.length; i++) {
@@ -113,6 +121,10 @@ public class Zipcode {
 		return stockArr;
 	}
 
+	/**
+	 * Code to get Rep from selected zip code relative to county.
+	 * @return Array with all information relating to rep from given zip code.
+	 */
 	public String[] getRep() {
 		ArrayList<String> output = new ArrayList<String>();
 		for (int i = 0; i < JSONarr.length; i++) {
@@ -128,6 +140,10 @@ public class Zipcode {
 		return stockArr;
 	}
 
+	/**
+	 * Gives county form which zipcode is from.
+	 * @return County
+	 */
 	public String[] getCounty() {
 		ArrayList<String> output = new ArrayList<String>();
 		for (int i = 0; i < JSONarr.length; i++) {
@@ -143,6 +159,10 @@ public class Zipcode {
 		return stockArr;
 	}
 	
+	/**
+	 * Gives all info regarding the governor 
+	 * @return All info relating to the govenor from zip code. 
+	 */
 	public String[] getGov() {
 		ArrayList<String> output = new ArrayList<String>();
 		for (int i = 0; i < JSONarr.length; i++) {
