@@ -4,14 +4,14 @@ import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.MalformedURLException;
 import java.net.URL;
-import org.json.XML;
 
 /**
  * 
  * @author Pradeep Copyright (C) 2017 Pradeep Senthil and Tomas Bindokas. All rights reserved. 
  * This class belongs to the USAlmanac project.
  */
-public class Zipcode {
+public class Zipcode
+{
 
 	/**
 	 * Stores the zipcode for instance of class created.
