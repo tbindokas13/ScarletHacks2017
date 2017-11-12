@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.silversquad.governmentapp.usalmanac.MainActivity">
+
+
+    <VideoView
+        android:id="@+id/videoView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_gravity="center" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_marginStart="20dp"
+        android:maxLength="5"
+        android:maxLines="1"
+        android:textColor="#000000"
+        android:alpha="0.7"
+        android:id="@+id/enterzip"
+        android:background="@drawable/rounded"
+        android:hint = " Enter Your Zip Code "
+        android:inputType="number"
+        android:layout_centerInParent="true"
+        tools:ignore="HardcodedText" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:textColor="#000000"
+        android:alpha="0.7"
+        android:text="Filter"
+        android:id="@+id/startbtn"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/rounded"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/enterzip"
+        android:clickable="true" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="1024dp"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/startbtn"
+        android:layout_marginTop="124dp"
+        android:src="@drawable/you" />
+
+</RelativeLayout>
