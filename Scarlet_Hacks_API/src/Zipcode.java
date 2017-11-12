@@ -8,7 +8,7 @@ import org.json.XML;
 
 /**
  * 
- * @author Pradeep Copyright (C) 2017 Pradeep Senthil. All rights reserved. 
+ * @author Pradeep Copyright (C) 2017 Pradeep Senthil and Tomas Bindokas. All rights reserved. 
  * This class belongs to the USAlmanac project.
  */
 public class Zipcode {
