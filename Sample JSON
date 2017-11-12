@@ -1,0 +1,231 @@
+{
+   "request_status": {
+      "request_address": ", 60517",
+      "request_status_code": {
+         "@flags": "",
+         "#text": "ZipMatch"
+      },
+      "request_status_code_description": "Zip code was found but street address was not found",
+      "request_status_version": "06.0316"
+   },
+   "geo_info": {
+      "geo_status": "Match Found",
+      "latitude": "41.7419526781047",
+      "longitude": "-88.0422077117686"
+   },
+   "address_info": {
+      "address_status": "Match Found",
+      "street": "(No Match for Input Street Address)",
+      "city": "Woodridge",
+      "county": "Dupage",
+      "state": "IL",
+      "zip5": "60517"
+   },
+   "zipcode_carrierroute": {
+      "zip9": {
+         "zip9_status": "No Match"
+      },
+      "carrier_route": {
+         "carrier_route_status": "No Match"
+      }
+   },
+   "jurisdictions_info": {
+      "congressional_legislators": {
+         "official_state": "Illinois",
+         "national_senator": {
+            "national_senator_status": "Match Found",
+            "national_senator_count": "2",
+            "national_senator_1": "Dick Durbin (D)",
+            "national_senator_1_capitol_phone": "(202) 224-2152",
+            "national_senator_1_capitol_fax": "(202) 228-0400",
+            "national_senator_1_district_phone": "(312) 353-4952",
+            "national_senator_1_district_fax": "(312) 353-0150",
+            "national_senator_1_website": "http://durbin.senate.gov",
+            "national_senator_1_econtact": "http://www.durbin.senate.gov/contact/email",
+            "national_senator_1_address_building": "HSOB- Hart Senate Office Building",
+            "national_senator_1_address_room": "Room 711",
+            "national_senator_1_address_street": "120 Constitution Avenue, NE",
+            "national_senator_1_address_city": "Washington",
+            "national_senator_1_address_zipcode": "20510-1304",
+            "national_senator_1_address_state": "District of Columbia",
+            "national_senator_2": "Tammy Duckworth (D)",
+            "national_senator_2_capitol_phone": "(202) 224-2854",
+            "national_senator_2_capitol_fax": "(202) 228-0618",
+            "national_senator_2_district_phone": "(312) 886-3506",
+            "national_senator_2_district_fax": "Not Found",
+            "national_senator_2_website": "https://www.duckworth.senate.gov/",
+            "national_senator_2_econtact": "https://www.duckworth.senate.gov/content/contact-senator",
+            "national_senator_2_address_building": "HSOB- Hart Senate Office Building",
+            "national_senator_2_address_room": "Room 524",
+            "national_senator_2_address_street": "120 Constitution Avenue, NE",
+            "national_senator_2_address_city": "Washington",
+            "national_senator_2_address_zipcode": "20510-1309",
+            "national_senator_2_address_state": "District of Columbia"
+         },
+         "congressional_district": {
+            "congressional_district_status": "Match Found",
+            "congressional_district_name": "115th Congressional District 11"
+         },
+         "last_congressional_district": {
+            "last_congressional_district_status": "Match Found",
+            "last_congressional_district_name": "114th Congressional District 11"
+         },
+         "congressional_district_id": {
+            "congressional_district_id_status": "Match Found",
+            "congressional_district_id_value": "11"
+         },
+         "last_congressional_district_id": {
+            "last_congressional_district_id_status": "Match Found",
+            "last_congressional_district_id_value": "11"
+         },
+         "house_of_representative": {
+            "house_of_representative_status": "Match Found",
+            "representative_1": "Bill Foster (D)",
+            "representative_1_capitol_phone": "(202) 225-3515",
+            "representative_1_capitol_fax": "(202) 225-9420",
+            "representative_1_district_phone": "(630) 585-7672",
+            "representative_1_district_fax": "Not Found",
+            "representative_1_website": "http://foster.house.gov/",
+            "representative_1_econtact": "https://foster.house.gov/contact/email-me",
+            "representative_1_address_building": "LHOB- Longworth House Office Building",
+            "representative_1_address_room": "Room 1224",
+            "representative_1_address_street": "15 Independence Avenue, SE",
+            "representative_1_address_city": "Washington",
+            "representative_1_address_zipcode": "20515-1311",
+            "representative_1_address_state": "District of Columbia"
+         }
+      },
+      "state_legislation": {
+         "state_executives": {
+            "state_executives_status": "Match Found",
+            "governor": "Bruce Rauner (R)",
+            "governor_capitol_phone": "(217) 782-0244",
+            "governor_capitol_fax": "Not Found",
+            "governor_district_phone": "(312) 814-2121",
+            "governor_district_fax": "(312) 814-5512",
+            "governor_website": "https://www.illinois.gov/gov/",
+            "governor_econtact": "http://www.illinois.gov/gov/contactus/Pages/VoiceAnOpinion.aspx",
+            "governor_address_building": [],
+            "governor_address_room": [],
+            "governor_address_street": "207 State House",
+            "governor_address_city": "Springfield",
+            "governor_address_zipcode": "62706",
+            "governor_address_state": "Illinois",
+            "lt_governor": "Evelyn Sanguinetti (R)",
+            "lt_governor_capitol_phone": "(217) 558-3085",
+            "lt_governor_capitol_fax": "(217) 558-3094",
+            "lt_governor_district_phone": "(312) 814-5240",
+            "lt_governor_district_fax": "(312) 814-5228",
+            "lt_governor_website": "http://www.illinois.gov/ltg/",
+            "lt_governor_econtact": "http://www.illinois.gov/ltg/contact/Pages/default.aspx",
+            "lt_governor_address_building": [],
+            "lt_governor_address_room": [],
+            "lt_governor_address_street": "214 State House",
+            "lt_governor_address_city": "Springfield",
+            "lt_governor_address_zipcode": "62706",
+            "lt_governor_address_state": "Illinois"
+         },
+         "state_upper_house_district_count": "1",
+         "state_upper_house_district_1": {
+            "state_upper_house_district_1_status": "Match Found",
+            "state_upper_house_district_1_name": "State Senate District 43"
+         },
+         "state_upper_house_district_1_id": {
+            "state_upper_house_district_1_id_status": "Match Found",
+            "state_upper_house_district_1_id_value": "043"
+         },
+         "state_upper_house_district_1_state_upper_house_member": {
+            "state_upper_house_district_1_state_upper_house_member_status": "Match Found",
+            "state_upper_house_district_1_state_upper_house_member_count": "1",
+            "state_upper_house_district_1_state_upper_house_member_1": "Pat McGuire (D)",
+            "state_upper_house_district_1_state_upper_house_member_1_capitol_phone": "(217) 782-8800",
+            "state_upper_house_district_1_state_upper_house_member_1_capitol_fax": "(217) 782-8287",
+            "state_upper_house_district_1_state_upper_house_member_1_district_phone": "(815) 207-4445",
+            "state_upper_house_district_1_state_upper_house_member_1_district_fax": "(815) 207-4446",
+            "state_upper_house_district_1_state_upper_house_member_1_website": "http://www.ilga.gov/senate/Senator.asp?GA=100&MemberID=2398",
+            "state_upper_house_district_1_state_upper_house_member_1_econtact": "senatorpatmcguire@sbcglobal.net",
+            "state_upper_house_district_1_state_upper_house_member_1_address_building": "Capitol Building",
+            "state_upper_house_district_1_state_upper_house_member_1_address_room": "Room 417-C",
+            "state_upper_house_district_1_state_upper_house_member_1_address_street": "301 South Second Street",
+            "state_upper_house_district_1_state_upper_house_member_1_address_city": "Springfield",
+            "state_upper_house_district_1_state_upper_house_member_1_address_zipcode": "62706",
+            "state_upper_house_district_1_state_upper_house_member_1_address_state": "Illinois"
+         },
+         "state_lower_house_district_count": "1",
+         "state_lower_house_district_1": {
+            "state_lower_house_district_1_status": "Match Found",
+            "state_lower_house_district_1_name": "State House District 85"
+         },
+         "state_lower_house_district_1_id": {
+            "state_lower_house_district_1_id_status": "Match Found",
+            "state_lower_house_district_1_id_value": "085"
+         },
+         "state_lower_house_district_1_state_lower_house_member": {
+            "state_lower_house_district_1_state_lower_house_member_status": "Match Found",
+            "state_lower_house_district_1_state_lower_house_member_count": "1",
+            "state_lower_house_district_1_state_lower_house_member_1": "John Connor (D)",
+            "state_lower_house_district_1_state_lower_house_member_1_capitol_phone": "(217) 782-4179",
+            "state_lower_house_district_1_state_lower_house_member_1_capitol_fax": "(217) 557-7204",
+            "state_lower_house_district_1_state_lower_house_member_1_district_phone": "(815) 372-0085",
+            "state_lower_house_district_1_state_lower_house_member_1_district_fax": "(815) 372-0080",
+            "state_lower_house_district_1_state_lower_house_member_1_website": "http://www.ilga.gov/house/Rep.asp?GA=100&MemberID=2503",
+            "state_lower_house_district_1_state_lower_house_member_1_econtact": "JohnC@ilga.gov",
+            "state_lower_house_district_1_state_lower_house_member_1_address_building": "Stratton Office Building",
+            "state_lower_house_district_1_state_lower_house_member_1_address_room": "Room 259-S",
+            "state_lower_house_district_1_state_lower_house_member_1_address_street": "401 South Spring Street",
+            "state_lower_house_district_1_state_lower_house_member_1_address_city": "Springfield",
+            "state_lower_house_district_1_state_lower_house_member_1_address_zipcode": "62706",
+            "state_lower_house_district_1_state_lower_house_member_1_address_state": "Illinois"
+         }
+      },
+      "county": {
+         "county_status": "Match Found",
+         "county_name": "DuPage"
+      },
+      "county_subdivision": {
+         "county_subdivision_status": "Match Found",
+         "county_subdivision_name": "Lisle township"
+      },
+      "tribal_land": {
+         "tribal_land_status": "No Match"
+      },
+      "municipal": {
+         "municipal_status": "Match Found",
+         "municipal_name": "Woodridge"
+      },
+      "voting_district": {
+         "voting_district_status": "No Match"
+      },
+      "school_districts": {
+         "school_districts_status": "Match Found",
+         "primary_school_district": "Woodridge School District 68",
+         "secondary_school_district": "Community High School District 99",
+         "unified_school_district": "Not in Unified school district"
+      }
+   },
+   "census_info": {
+      "census_tract": {
+         "census_tract_status": "Match Found",
+         "census_tract_value": "8463.10"
+      },
+      "block_group": {
+         "block_group_status": "Match Found",
+         "block_group_name": "Block Group 1"
+      },
+      "census_2000_block": {
+         "census_2000_block_status": "No Match"
+      },
+      "census_2010_block": {
+         "census_2010_block_status": "Match Found",
+         "census_2010_block_value": "Block 1000"
+      },
+      "msa": {
+         "msa_status": "Match Found",
+         "msa_name": "Chicago-Joliet-Naperville, IL-IN-WI Metro Area"
+      },
+      "urban_or_rural_area": {
+         "urban_or_rural_area_status": "Urban Area",
+         "urban_area_name": "Chicago, IL--IN Urbanized Area"
+      }
+   }
+}
